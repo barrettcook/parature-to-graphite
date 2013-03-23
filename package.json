@@ -1,0 +1,13 @@
+{
+  "name": "forums-graph",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "coffee-script": "*",
+    "request": "*",
+    "graphite": "*",
+    "xml2js": "*",
+    "underscore": "*",
+    "date-utils": "*"
+  }
+}
